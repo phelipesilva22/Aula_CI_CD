@@ -1,4 +1,3 @@
-# .eas/workflows/pipeline.yml
 name: CI/CD Pipeline
 
 on:
